@@ -43,5 +43,4 @@ I had problem with sizing the posters on Collection View.
 
 ### Notes
 Describe any challenges encountered while building the app.
-
 I had trouble installing cocopods. "brew install cocoapods" fixed it.
